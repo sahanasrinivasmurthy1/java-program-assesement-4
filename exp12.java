@@ -1,6 +1,4 @@
-package bhavana;
-
-import bhavana.Fibonacci;
+package sahana;
 
 class Fibonacci {
     int n = 10;

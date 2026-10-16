@@ -1,6 +1,4 @@
-package bhavana;
-
-import bhavana.Prime;
+package sahana;
 
 class Prime {
     int number = 7;
